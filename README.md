@@ -1,6 +1,6 @@
 # ComputerVisionAssignments
 
-# README for Deep Learning & Transfer Learning Assignment
+# Deep Learning & Transfer Learning Assignment
 
 ---
 
