@@ -50,7 +50,9 @@ This repo hosts Colab notebooks demonstrating:
 - **Medical**: X‑ray pneumonia (2D CNN), 3D CT scan classification
 
 ### Links:
+
 [Colab](https://colab.research.google.com/drive/1rC6l5JKubuhS10mDJyWC4DLklsCV2lnz#scrollTo=CEyK7ZkiLMAq)
+
 [Demo Video](https://www.youtube.com/watch?v=s8r-9HF3lj0)
 
 
