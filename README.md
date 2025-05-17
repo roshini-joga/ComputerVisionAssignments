@@ -24,18 +24,9 @@ This repo hosts Colab notebooks demonstrating:
 
 ## Structure
 
-- [Part 1: Supervised Contrastive vs Softmax]
-
-   - (https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/Part_1_SCL_vs_Softmax.ipynb)
-
+- Part 1: Supervised Contrastive vs Softmax
 - Part 2: Transfer Learning
-  - [Text](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/Part_2_Transfer_Learning/text.ipynb)
-  
-  - [Part 3: Zero-Shot Learning](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/Part_3_Zero_Shot.ipynb)
 - Part 4: Vision Models
-   - [3D CT Scan](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/Part_4_Vision/ct_scan_3d.ipynb)
-
-
 ---
 
 ## Part Highlights
@@ -57,5 +48,9 @@ This repo hosts Colab notebooks demonstrating:
 ### Part 4
 - **Standard**: Transfer EfficientNet & BiT on MNIST, Fashion‑MNIST, CIFAR‑10; explore MLP‑Mixer & ConvNeXt
 - **Medical**: X‑ray pneumonia (2D CNN), 3D CT scan classification
+
+### Links:
+[Colab](https://colab.research.google.com/drive/1rC6l5JKubuhS10mDJyWC4DLklsCV2lnz#scrollTo=CEyK7ZkiLMAq)
+[Demo Video](https://www.youtube.com/watch?v=s8r-9HF3lj0)
 
 
